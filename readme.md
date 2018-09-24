@@ -15,3 +15,4 @@ Credentials:
 - Run __php artisan key:generate__
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
 - That's it: launch the main URL and login with default credentials __admin@admin.com__ - __password__
+Credits to Laravel QuickMaster
